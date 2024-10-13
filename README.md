@@ -42,7 +42,7 @@ Here are my projects organized by week:
 - **Pandas**
 - **Numpy**
 - **Machine Learning Libraries:** Scikit-learn, TensorFlow , Keras
--** Yolo models**
+- ** Yolo models**
 - **langchain**
 
 ###  Contact
