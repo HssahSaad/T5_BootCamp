@@ -1,6 +1,6 @@
 # T5 BootCamp Projects
 
-![Banner Image](Beige Feminine Personal LinkedIn Banner (1).png) 
+![Banner Image]([Beige Feminine Personal LinkedIn Banner (1).png](https://github.com/HssahSaad/T5_BootCamp/blob/main/Beige%20Feminine%20Personal%20LinkedIn%20Banner%20(1).png)) 
 
 Welcome to the **T5 Zeham BootCamp** repository! This repository contains all my projects and exercises throughout the bootcamp program.
 
