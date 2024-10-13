@@ -9,9 +9,7 @@ Welcome to the **T5 Zeham BootCamp** repository! This repository contains all my
 - [Projects](#projects)
   - [Mini Projects](#mini-projects)
   - [Weekly Projects](#weekly-projects)
-- [How to Use](#how-to-use)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ## Overview
@@ -36,3 +34,18 @@ Here are my projects organized by week:
 - **[Week 7](Week%207/)**: Introduction to Natural language processing
 - **[Week 8](Week%208/)**: Transformers
 - **[Week 9](Week%209/)**: Large language model
+
+### Technologies Used
+- **Python**
+- **Jupyter Notebook**
+- **SQL**
+- **Pandas**
+- **Numpy**
+- **Machine Learning Libraries:** Scikit-learn, TensorFlow
+
+###  Contact
+If you have any questions, feel free to contact me:
+
+Email: hssahsaadsh@gmail.com
+linkedin:[Hssah Alsherihi](linkedin.com/in/hssah-alsherihi-658b25216)
+
