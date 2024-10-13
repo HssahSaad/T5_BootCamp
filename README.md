@@ -21,8 +21,9 @@ During the bootcamp, I explored various programming concepts and completed multi
 
 ### Mini Projects
 A collection of small projects to practice core concepts:
-- [Project 1](Mini%20Projects/Project1)
-- [Project 2](Mini%20Projects/Project2)
+- [Project 1](https://github.com/HssahSaad/T5_BootCamp/blob/main/Mini%20Projects/Week4_Mini_project_Final.ipynb)
+- [Project 2](https://github.com/HssahSaad/T5_BootCamp/blob/main/Mini%20Projects/Week5_Mini_Project_GRU_SARIMA.ipynb)
+- [Project 3](https://github.com/HssahSaad/T5_BootCamp/blob/main/Mini%20Projects/Mini_Project_Week6_DataAgu_train%20(1).ipynb)
 
 ### Weekly Projects
 Here are my projects organized by week:
