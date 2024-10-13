@@ -26,17 +26,12 @@ A collection of small projects to practice core concepts:
 
 ### Weekly Projects
 Here are my projects organized by week:
-- **[Week 1](Week%201/)**: Introduction to Python
-- **[Week 2](Week%202/)**: Data Structures
-- **[Week 3](Week%203/)**: Algorithms
-- **[Week 4](Week%204/)**: APIs and Web Scraping
-- **[Week 5](Week%205/)**: Databases and SQL
-- **[Week 6](Week%206/)**: Machine Learning Basics
-- **[Week 7](Week%207/)**: Deep Learning
-- **[Week 8](Week%208/)**: Project Deployment
-- **[Week 9](Week%209/)**: Final Project
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/T5_BootCamp.git
+- **[Week 1](Week%201/)**: Introduction to Data Science
+- **[Week 2](Week%202/)**: Foundation of Machine learning 
+- **[Week 3](Week%203/)**: Advance Machine learning 
+- **[Week 4](Week%204/)**: Deep learning 
+- **[Week 5](Week%205/)**: Introduction to Time series forcasting 
+- **[Week 6](Week%206/)**: Introduction to Computer vision 
+- **[Week 7](Week%207/)**: Introduction to Natural language processing
+- **[Week 8](Week%208/)**: Transformers
+- **[Week 9](Week%209/)**: Large language model
