@@ -37,11 +37,13 @@ Here are my projects organized by week:
 
 ### Technologies Used
 - **Python**
-- **Jupyter Notebook**
+- **Collab Notebook**
 - **SQL**
 - **Pandas**
 - **Numpy**
-- **Machine Learning Libraries:** Scikit-learn, TensorFlow
+- **Machine Learning Libraries:** Scikit-learn, TensorFlow , Keras
+-** Yolo models**
+- **langchain**
 
 ###  Contact
 If you have any questions, feel free to contact me:
