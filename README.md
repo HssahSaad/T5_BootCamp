@@ -47,5 +47,5 @@ Here are my projects organized by week:
 If you have any questions, feel free to contact me:
 
 - Email: hssahsaadsh@gmail.com
-- linkedin:[Hssah Alsherihi](linkedin.com/in/hssah-alsherihi-658b25216)
+- linkedin:(linkedin.com/in/hssah-alsherihi-658b25216)
 
